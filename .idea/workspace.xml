@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac381087-173d-4f53-b433-1a11409fa9fb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Fake Labo/labo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LABO 5/LABO 5.docx" beforeDir="false" />
-    </list>
+    <list default="true" id="ac381087-173d-4f53-b433-1a11409fa9fb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +52,7 @@
       <workItem from="1665499409928" duration="171000" />
       <workItem from="1666261413240" duration="908000" />
       <workItem from="1666262590487" duration="974000" />
-      <workItem from="1666809134726" duration="1670000" />
+      <workItem from="1666809134726" duration="1827000" />
     </task>
     <servers />
   </component>
