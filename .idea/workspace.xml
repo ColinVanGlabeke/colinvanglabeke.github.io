@@ -2,12 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac381087-173d-4f53-b433-1a11409fa9fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LABO 5/Opdracht 7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 5/Opdracht 7/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LABO 6/Opdracht 3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Dev/LABO 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Dev/LABO 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Dev/LABO 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Dev/LABO 5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Dev/LABO 6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Dev/WebDev.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS LABO 1/LABO 5.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS LABO 1/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS LABO 1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LABO 2/Opdracht 10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LABO 2/Opdracht 10/Opdracht  10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LABO 2/Opdracht 2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LABO 2/Opdracht 2/Opdracht 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LABO 2/Opdracht 3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LABO 2/Opdracht 3/Opdracht 3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LABO 2/Opdracht 4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LABO 2/Opdracht 4/Opdracht 4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LABO 2/Opdracht 5/index7.html" beforeDir="false" afterPath="$PROJECT_DIR$/LABO 2/Opdracht 5/Opdracht 5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LABO 2/Opdracht 9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LABO 2/Opdracht 9/Opdracht 9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LABO 3/Contact info/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LABO 3/Contact info/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LABO 5/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/LABO 5/Opdracht 6/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LABO 5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LABO 5/Opdracht 6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LABO 6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LABO 6/Demo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LABO 6/Opdracht 1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +37,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/LABO 6/Opdracht 1/index.html" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -45,6 +61,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Colin Van Glabeke\Desktop\Web Developement\GitHub\colinvanglabeke.github.io\colinvanglabeke.github.io\LABO 5\Opdracht 6" />
+      <recent name="C:\Users\Colin Van Glabeke\Desktop\Web Developement\GitHub\colinvanglabeke.github.io\colinvanglabeke.github.io\LABO 6\Demo" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,6 +84,8 @@
       <workItem from="1666809134726" duration="1827000" />
       <workItem from="1666861858380" duration="260000" />
       <workItem from="1666862378046" duration="2948000" />
+      <workItem from="1666866452208" duration="736000" />
+      <workItem from="1666867756499" duration="5604000" />
     </task>
     <servers />
   </component>
