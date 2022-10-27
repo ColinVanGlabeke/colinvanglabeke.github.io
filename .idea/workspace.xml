@@ -2,25 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac381087-173d-4f53-b433-1a11409fa9fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LABO 6/Opdracht 3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Dev/LABO 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Dev/LABO 3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Dev/LABO 4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Dev/LABO 5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Dev/LABO 6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Dev/WebDev.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Dev/LABO 1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LABO 2/Opdracht 10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LABO 2/Opdracht 10/Opdracht  10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LABO 2/Opdracht 2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LABO 2/Opdracht 2/Opdracht 2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LABO 2/Opdracht 3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LABO 2/Opdracht 3/Opdracht 3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LABO 2/Opdracht 4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LABO 2/Opdracht 4/Opdracht 4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LABO 2/Opdracht 5/index7.html" beforeDir="false" afterPath="$PROJECT_DIR$/LABO 2/Opdracht 5/Opdracht 5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LABO 2/Opdracht 9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LABO 2/Opdracht 9/Opdracht 9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LABO 3/Contact info/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LABO 3/Contact info/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LABO 5/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/LABO 5/Opdracht 6/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LABO 5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LABO 5/Opdracht 6/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LABO 6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LABO 6/Demo/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LABO 6/Opdracht 1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Dev/LABO 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web Dev/LABO 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Dev/LABO 3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web Dev/LABO 3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Dev/LABO 4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web Dev/LABO 4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Dev/LABO 5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web Dev/LABO 5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Dev/WebDev.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web Dev/WebDev.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +73,7 @@
       <workItem from="1666861858380" duration="260000" />
       <workItem from="1666862378046" duration="2948000" />
       <workItem from="1666866452208" duration="736000" />
-      <workItem from="1666867756499" duration="5604000" />
+      <workItem from="1666867756499" duration="6113000" />
     </task>
     <servers />
   </component>
