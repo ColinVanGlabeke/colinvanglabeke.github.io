@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac381087-173d-4f53-b433-1a11409fa9fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LABO 6/Opdracht 1/Opdracht 1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 6/Opdracht 1/Opdracht 1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 6/Opdracht 3/Opdracht 3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 6/Opdracht 3/Opdracht 3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 6/Opdracht 4/Opdracht 4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 6/Opdracht 4/Opdracht 4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 6/Opdracht 5/Opdracht 5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 6/Opdracht 6/Opdracht 6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LABO 6/LABO 6/Opdracht 2.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LABO 6/Opdracht 1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LABO 6/Opdracht 3/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Web Dev/LABO 6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web Dev/LABO 6.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +81,7 @@
       <workItem from="1666965771671" duration="223000" />
       <workItem from="1666969251279" duration="1982000" />
       <workItem from="1666971289326" duration="626000" />
-      <workItem from="1668023472303" duration="1581000" />
+      <workItem from="1668023472303" duration="2017000" />
     </task>
     <servers />
   </component>
