@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac381087-173d-4f53-b433-1a11409fa9fb" name="Changes" comment="" />
+    <list default="true" id="ac381087-173d-4f53-b433-1a11409fa9fb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LABO 6/Opdracht 1/Opdracht 1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LABO 6/Opdracht 1/Opdracht 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LABO 6/Opdracht 3/Opdracht 3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LABO 6/Opdracht 3/Opdracht 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LABO 6/Opdracht 4/Opdracht 4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LABO 6/Opdracht 4/Opdracht 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LABO 6/Opdracht 5/Opdracht 5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LABO 6/Opdracht 6/Opdracht 6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LABO 6/LABO 6/Opdracht 2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LABO 6/Opdracht 1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LABO 6/Opdracht 3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Dev/LABO 6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web Dev/LABO 6.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,21 +24,21 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/LABO 6/Opdracht 1/index.html" root0="SKIP_INSPECTION" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Fl5DFUyQTSvNReVXIQ4EYx4pvk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,6 +57,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Colin Van Glabeke\Desktop\Web Developement\GitHub\colinvanglabeke.github.io\colinvanglabeke.github.io\LABO 6\Opdracht 5" />
       <recent name="C:\Users\Colin Van Glabeke\Desktop\Web Developement\GitHub\colinvanglabeke.github.io\colinvanglabeke.github.io\LABO 5\Opdracht 6" />
       <recent name="C:\Users\Colin Van Glabeke\Desktop\Web Developement\GitHub\colinvanglabeke.github.io\colinvanglabeke.github.io\LABO 6\Demo" />
     </key>
@@ -76,6 +91,8 @@
       <workItem from="1666965167049" duration="535000" />
       <workItem from="1666965771671" duration="223000" />
       <workItem from="1666969251279" duration="1982000" />
+      <workItem from="1666971289326" duration="626000" />
+      <workItem from="1668023472303" duration="1581000" />
     </task>
     <servers />
   </component>
