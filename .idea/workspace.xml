@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac381087-173d-4f53-b433-1a11409fa9fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LABO 6/Opdracht 6/Opdracht 6.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LABO 6/Opdracht 6/Opdracht 6.html" beforeDir="false" afterPath="$PROJECT_DIR$/LABO 6/Opdracht 6/Opdracht 6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LABO 7/Kalender/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LABO 7/Kalender/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LABO 7/Natuur/Natuur Blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LABO 7/Natuur/Natuurblog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Dev/LABO 7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +32,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Fl5DFUyQTSvNReVXIQ4EYx4pvk" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -34,6 +41,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -46,6 +54,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Colin Van Glabeke\Desktop\Web Developement\GitHub\colinvanglabeke.github.io\colinvanglabeke.github.io\LABO 7\Natuur" />
+      <recent name="C:\Users\Colin Van Glabeke\Desktop\Web Developement\GitHub\colinvanglabeke.github.io\colinvanglabeke.github.io" />
       <recent name="C:\Users\Colin Van Glabeke\Desktop\Web Developement\GitHub\colinvanglabeke.github.io\colinvanglabeke.github.io\LABO 6\Opdracht 5" />
       <recent name="C:\Users\Colin Van Glabeke\Desktop\Web Developement\GitHub\colinvanglabeke.github.io\colinvanglabeke.github.io\LABO 5\Opdracht 6" />
       <recent name="C:\Users\Colin Van Glabeke\Desktop\Web Developement\GitHub\colinvanglabeke.github.io\colinvanglabeke.github.io\LABO 6\Demo" />
@@ -83,6 +93,13 @@
       <workItem from="1666971289326" duration="626000" />
       <workItem from="1668023472303" duration="2017000" />
       <workItem from="1668070176232" duration="210000" />
+      <workItem from="1668070459287" duration="7000" />
+      <workItem from="1668077843158" duration="2647000" />
+      <workItem from="1668605405637" duration="348000" />
+      <workItem from="1668696050608" duration="1594000" />
+      <workItem from="1669205226062" duration="2113000" />
+      <workItem from="1669207506123" duration="69000" />
+      <workItem from="1669207586643" duration="465000" />
     </task>
     <servers />
   </component>
@@ -99,5 +116,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
