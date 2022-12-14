@@ -2,48 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac381087-173d-4f53-b433-1a11409fa9fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LABO 10/Demo/MediaQuery/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 10/Demo/MediaQuery/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 10/Demo/boodstrap/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 10/Demo/boodstrap/style/boodstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 10/Demo/boodstrap/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 10/Demo/float/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 10/Demo/float/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 8/Cocktail/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 8/Cocktail/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 8/Lorem 2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 8/Lorem 2/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 8/Lorem/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 8/Lorem/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 8/Positioneren elementen/Demo 1/float.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 8/Positioneren elementen/Demo 2/download.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 8/Positioneren elementen/Demo 2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 8/Positioneren elementen/Demo 2/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 8/images/background.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 8/images/black.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 8/images/blue.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 8/images/chai.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 8/images/cocktail.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 8/images/cocktails.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 8/images/green.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 8/images/lightblue.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 8/images/red.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 8/images/yellow.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 9/Positioneren/Relative en absolute position/demo1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 9/Positioneren/demo pitfalls of inline block element/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 9/Positioneren/demo pitfalls of inline block element/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 9/opdracht airbus/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 9/positioneren_image_begin/Images/flight1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 9/positioneren_image_begin/Images/flight2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 9/positioneren_image_begin/Images/flight3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 9/positioneren_image_begin/Images/flight4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 9/positioneren_image_begin/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABO 9/positioneren_image_begin/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Dev/LABO 10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Dev/LABO 8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Dev/LABO 9.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Dev/LABO 8.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web Dev/LABO 8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Dev/LABO 9.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web Dev/LABO 9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Dev/WebDev.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web Dev/WebDev.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +105,7 @@
       <workItem from="1670448175835" duration="308000" />
       <workItem from="1670494498247" duration="5290000" />
       <workItem from="1670502009096" duration="46000" />
-      <workItem from="1671013359094" duration="511000" />
+      <workItem from="1671013359094" duration="1012000" />
     </task>
     <servers />
   </component>
